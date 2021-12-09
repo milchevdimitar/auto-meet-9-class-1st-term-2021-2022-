@@ -1,0 +1,13 @@
+#дистанционно обучение:
+alias clsrm='firefox https://classroom.google.com/u/0/h &'
+alias bel='firefox https://meet.google.com/vcu-kkvg-mzn?authuser=0 && ./(тук напишете пътя към старт скрипта в репото)/start.sh &'
+alias mat='firefox https://meet.google.com/fay-bkrc-jfj?authuser=0 && ./(тук напишете пътя към старт скрипта в репото)/start.sh &'
+alias filo='firefox https://meet.google.com/apo-vwoc-qzs?authuser=0 && ./(тук напишете пътя към старт скрипта в репото)/start.sh &'
+alias fiz='firefox https://meet.google.com/ioj-rrvn-vav?authuser=0 && ./(тук напишете пътя към старт скрипта в репото)/start.sh &'
+alias geo='firefox https://meet.google.com/gdo-nuek-bdm?authuser=0 && ./(тук напишете пътя към старт скрипта в репото)/start.sh &'
+alias bio='firefox https://meet.google.com/vhp-owsi-cse?authuser=0 && ./(тук напишете пътя към старт скрипта в репото)/start.sh &'
+alias isto='firefox https://meet.google.com/khu-grmt-nmg?authuser=0 && ./(тук напишете пътя към старт скрипта в репото)/start.sh &'
+alias rusk='firefox https://meet.google.com/kkg-weha-jmz?authuser=0 && ./(тук напишете пътя към старт скрипта в репото)/start.sh &'
+alias km='firefox https://meet.google.com/ueo-tzkm-nsf?authuser=0 && ./(тук напишете пътя към старт скрипта в репото)/start.sh &'
+alias progr='firefox https://meet.google.com/ots-xgvb-fga?authuser=0 && ./(тук напишете пътя към старт скрипта в репото)/start.sh &'
+alias vskr='firefox https://meet.google.com/vhp-owsi-cse?authuser=0 && ./(тук напишете пътя към старт скрипта в репото)/start.sh &'
