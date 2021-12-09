@@ -1,0 +1,7 @@
+за да видите сегашната позиция на мишката:
+xdotool getmouselocation
+
+за сетъп на библиотеките на python:
+    за Arch базирани: sudo apt-get install python3-tk python3-dev
+    за Debian базирани: sudo pacman -S tk
+    (Като първо си обновете репотата)
